@@ -1,0 +1,9 @@
+body {
+    background-color: #045d5f;
+    text-align: center;
+    color: white;
+}
+#root {
+    background-color: #565658;
+    width: 100%;
+}
